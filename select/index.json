@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "水の中",
+  "base_artist": "kanekoayano",
+  "createdAt": "2026-02-11T07:26:58.995169Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "水の中",
+      "artist": "kanekoayano",
+      "has_synced": false,
+      "path": "select/pl_01_水の中_kanekoayano.txt"
+    }
+  ]
+}
